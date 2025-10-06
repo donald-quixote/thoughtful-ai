@@ -36,4 +36,3 @@ I primarily code against the JVM :)
 ## Notes
 - Requires Python 3.8+
 - You must have a valid OpenAI API key with access to `gpt-3.5-turbo` or compatible model.
-- For troubleshooting, see error messages in the terminal or browser.
